@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm F7TSHADOW</h1>
 <h3 align="center">A RED TEAMER FROM TUNISIA FOUNDER OF Z3R0D4Y TEAM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftp-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="ftp-shadow" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="f7p-shadow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftp-shadow" alt="ftp-shadow" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f7p-shadow" alt="f7p-shadow" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
