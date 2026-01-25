@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&locale=en" alt="f7p-shadow" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ftp-shadow&" alt="ftp-shadow" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&" alt="f7p-shadow" /></p>
