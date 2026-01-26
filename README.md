@@ -11,11 +11,13 @@
 </p>  <h3 align="center">  
 • 🔴 Offensive Security‎‎ ‎ ‎ ‎  ‎ ‎   <br>• 🧠 Adversary Simulation <br>• 🛡️ Detection Awareness  
 </h3>  
+
 ---
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" />  
 </p>  
+
 ---
 
 🔴 Red Team Focus
@@ -28,6 +30,7 @@
   <br><img src="https://img.shields.io/badge/Education-Only-yellow" /> 
    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-Linux-black?logo=kali-linux&logoColor=white">
 </p>  
+
 ---
 
 🏷️ Red Team Tags
@@ -58,6 +61,7 @@ and security vendors to model attacker behavior and improve detection.
 
 
 ---
+
 
 🧰 Languages & Tools
 
