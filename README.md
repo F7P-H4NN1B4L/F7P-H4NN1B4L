@@ -121,9 +121,7 @@ and security vendors to model attacker behavior and improve detection.
 
 ---
 
-<h3 align="center">
-☠️ Z3R0D4Y TEAM — Learn. Break. Defend.
-</h3>
+
 
 
 <p>
