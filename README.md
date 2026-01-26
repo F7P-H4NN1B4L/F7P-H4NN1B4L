@@ -86,6 +86,7 @@ T1036	Masquerading / Trusted Service Abuse
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=F7P-H4NN1B4L&theme=dark" alt="GitHub Streak" />
 </a>   
+![F7P-H4NN1B4L's Streak](https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=vue-dark&hide_border=true)
 ---
 
 ⚠️ Ethics & Disclaimer
