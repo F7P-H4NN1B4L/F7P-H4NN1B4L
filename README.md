@@ -89,8 +89,6 @@ T1036	Masquerading / Trusted Service Abuse
 ![F7P-H4NN1B4L's Streak](https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)
 
 
-![](https://visitcount.itsvg.in/api?id=F7P-H4NN1B4L&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)
 
 
