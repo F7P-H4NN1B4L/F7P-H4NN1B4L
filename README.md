@@ -86,7 +86,7 @@ T1036	Masquerading / Trusted Service Abuse
 
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)
 
 
 
