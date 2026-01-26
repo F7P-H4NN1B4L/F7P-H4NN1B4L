@@ -25,7 +25,12 @@
   <img src="https://img.shields.io/badge/MITRE-ATT%26CK-orange" />  
   <img src="https://img.shields.io/badge/CTF-Offensive%20Security-success" />  
   <img src="https://img.shields.io/badge/Ethical-Hacking-blue" />  
-  <img src="https://img.shields.io/badge/Education-Only-yellow" />  
+  <br><img src="https://img.shields.io/badge/Education-Only-yellow" /> 
+   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-Scan-blue?logo=nmap&logoColor=white">
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-Web%20Proxy-orange?logo=burpsuite&logoColor=white">
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-Framework-red?logo=metasploit&logoColor=white">
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-Linux-black?logo=kali-linux&logoColor=white">
+
 </p>  
 ---
 
