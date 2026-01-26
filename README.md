@@ -92,7 +92,7 @@ and security vendors to model attacker behavior and improve detection.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=F7P-SHADOW&theme=darkhub&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=F7P-H4NN1B4L&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ and security vendors to model attacker behavior and improve detection.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-h4nn1b4l&theme=dark"/>
 </p>
 
 ---
