@@ -84,7 +84,7 @@ T1036	Masquerading / Trusted Service Abuse
 </p>  <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>  
 </p>  <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=dark"/>  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=F7P-H4NN1B4L&theme=dark" alt="GitHub Streak" /></a>  
 </p>  
 ---
 
