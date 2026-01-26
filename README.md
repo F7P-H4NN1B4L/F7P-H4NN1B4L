@@ -99,12 +99,18 @@ and security vendors to model attacker behavior and improve detection.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4L&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=dark"/>
 </p>
 
 <p align="center">
