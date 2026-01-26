@@ -1,20 +1,98 @@
-<h1 align="center">Hi 👋, I'm F7TSHADOW</h1>
-<h3 align="center">A RED TEAMER FROM NORTH AFRICA 🤫 FOUNDER OF Z3R0D4Y TEAM</h3>
+<h1 align="center">
+  Hi 👋, I'm F7TSHADOW
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="f7p-shadow" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f7p-shadow" alt="f7p-shadow" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/z3r0d4y_officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="z3r0d4y_officiel" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    weight=600&
+    size=22&
+    duration=2500&
+    pause=800&
+    color=FF0000&
+    center=true&
+    vCenter=true&
+    width=600&
+    lines=Red+Team+Operator;Adversary+Simulation+Specialist;CTF+Player;Founder+of+Z3R0D4Y+Team"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">
+🔴 Offensive Security • 🧠 Adversary Simulation • 🛡️ Detection Awareness
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f7p-shadow&show_icons=true&locale=en&layout=compact" alt="f7p-shadow" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&locale=en" alt="f7p-shadow" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&" alt="f7p-shadow" /></p>
+---
+
+## 🔴 Red Team Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Team-Adversary%20Simulation-red" />
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-orange" />
+  <img src="https://img.shields.io/badge/CTF-Offensive%20Security-success" />
+  <img src="https://img.shields.io/badge/Ethical-Hacking-blue" />
+  <img src="https://img.shields.io/badge/Education-Only-yellow" />
+</p>
+
+---
+
+## 🏷️ Red Team Tags
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=f7p-shadow&theme=darkhub&row=1&column=6"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&theme=dark"/>
+</p>
+
+---
+
+## ⚠️ Ethics & Disclaimer
+
+🚨 Educational & authorized use only  
+🧪 Labs • CTFs • Research  
+❌ No illegal activity
+
+---
+
+<h3 align="center">
+☠️ Z3R0D4Y TEAM — Learn. Break. Defend.
+</h3>
