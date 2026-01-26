@@ -71,9 +71,10 @@ and security vendors to model attacker behavior and improve detection.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  ![Wireshark Logo](path/to/your/image.png)
 
-</p>  
+</p>
+ ![Wireshark Logo](path/to/your/image.png)
+ 
 ---
 
 🏆 GitHub Trophies
