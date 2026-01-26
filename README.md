@@ -91,6 +91,7 @@ and security vendors to model attacker behavior and improve detection.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=F7P-H4NN1B4L&theme=onedark&no-frame=true&margin-w=10" />
 </p>  
+
 ---
 
 📊 GitHub Stats
