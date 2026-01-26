@@ -71,7 +71,8 @@ and security vendors to model attacker behavior and improve detection.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-Scan-blue?logo=nmap&logoColor=white">
+  
 </p>
  
 ---
