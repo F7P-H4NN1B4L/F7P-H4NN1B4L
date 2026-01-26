@@ -73,8 +73,6 @@ and security vendors to model attacker behavior and improve detection.
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 
 </p>
-
-![Wireshark Logo](path/to/your/image.png)
  
 ---
 
