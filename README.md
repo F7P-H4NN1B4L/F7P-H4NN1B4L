@@ -79,9 +79,9 @@ T1036	Masquerading / Trusted Service Abuse
 
 📊 GitHub Stats
 
+![F7P-H4NN1B4L's Stats](https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&theme=dark"/>  
-</p>  <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>  
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=F7P-H4NN1B4L&theme=dark" alt="GitHub Streak" />
