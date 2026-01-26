@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Also+Known+As+F7P-HANNIBAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Also+Known+As+F7P-H4NN1B4L" />
 </p>
 
 
