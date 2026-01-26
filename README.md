@@ -1,11 +1,7 @@
-<p>
- <h1 align="center">
-   Hi 👋,
- </h1>
- <h1 align="center">
-   I'm F7T-SHADOW
- </h1>
-</p>
+<h1 align="center">
+  Hi 👋, I'm F7TSHADOW
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Founder+of+Z3R0D4Y+Team;Adversary+Simulation+Specialist;CTF+Player" />
 </p>
