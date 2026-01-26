@@ -39,18 +39,20 @@ The <b>MITRE ATT&CK®</b> framework is a globally used knowledge base of real-wo
 adversary tactics and techniques. It is used by Red Teams, Blue Teams, SOCs,
 and security vendors to model attacker behavior and improve detection.
 
-<p align="center">  
-  <a href="https://attack.mitre.org/matrices/enterprise/" target="_blank">  
-    🔗 View the Enterprise ATT&CK Matrix  
-  </a>  
-</p>  Techniques Commonly Simulated
+<p align="center">
+  <a href="https://attack.mitre.org/matrices/enterprise/" target="_blank">
+    🔗 View the Enterprise ATT&CK Matrix
+  </a>
+</p>
 
-Technique ID	Description
+### Techniques Commonly Simulated
 
-T1059.001	PowerShell Command Execution
-T1102	Web Services for C2 (Discord, Telegram, Slack)
-T1071.001	Application Layer Protocol (HTTPS)
-T1036	Masquerading / Trusted Service Abuse
+| Technique ID | Description |
+|-------------|-------------|
+| T1059.001 | PowerShell Command Execution |
+| T1102 | Web Services for C2 (Discord, Telegram, Slack) |
+| T1071.001 | Application Layer Protocol (HTTPS) |
+| T1036 | Masquerading / Trusted Service Abuse |
 
 
 
