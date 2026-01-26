@@ -124,3 +124,11 @@ and security vendors to model attacker behavior and improve detection.
 <h3 align="center">
 ☠️ Z3R0D4Y TEAM — Learn. Break. Defend.
 </h3>
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=☠️+Z3R0D4Y+TEAM" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=—+Learn.+Break.+Defend." />
+</p>
