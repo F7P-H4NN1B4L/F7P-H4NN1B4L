@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm F7TSHADOW
-</h1>
+<h1 align="center">Hi 👋, I'm F7TSHADOW</h1>
 
 <p align="center">
   <img 
@@ -23,40 +21,84 @@
 🔴 Offensive Security • 🧠 Adversary Simulation • 🛡️ Detection Awareness
 </h3>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=F7P-SHADOW&label=Profile%20Views&color=red&style=flat" />
 </p>
 
 ---
 
-## 🔴 Red Team Focus
+## 🔴 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Adversary%20Simulation-red" />
-  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-orange" />
-  <img src="https://img.shields.io/badge/CTF-Offensive%20Security-success" />
-  <img src="https://img.shields.io/badge/Ethical-Hacking-blue" />
-  <img src="https://img.shields.io/badge/Education-Only-yellow" />
-</p>
+- Founder of **Z3R0D4Y Team**
+- Red Team Operator & Adversary Simulation Enthusiast  
+- CTF Player & Security Researcher  
+- Passionate about C2, Evasion, and Detection Engineering  
+- Ethicalized offensive security only
 
----
+> *Think like an attacker — defend like a professional.*
 
-## 🏷️ Red Team Tags
 ---
 
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🧠 MITRE ATT&CK Framework
+
+The **MITRE ATT&CK®** framework is a globally recognized knowledge base of **adversarial tactics and techniques** observed in real attacks. It helps both offensive and defensive teams to **categorize, simulate, and detect attacker behavior**. 1
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mitre-attack/attack-navigator/main/public/matrix/enterprise/enterprise-attack-navigator.png" alt="MITRE ATT&CK Matrix" width="600"/>
+</p>
+
+### Core Techniques Often Used
+
+| Technique | Description |
+|-----------|-------------|
+| **T1059.001** | PowerShell execution (remote commands) |
+| **T1102** | Web Service C2 (Discord API, cloud channels) |
+| **T1071.001** | Application Layer Protocol (HTTPS traffic) |
+| **T1036** | Masquerading/abuse of trusted services |
+
+These show how real adversaries behave — and how defenders can measure coverage. 2
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F7P-SHADOW&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-SHADOW&theme=dark"/>
 </p>
 
 ---
@@ -64,35 +106,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=f7p-shadow&theme=darkhub&row=1&column=6"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=F7P-SHADOW&theme=darkhub&row=1&column=6"/>
 </p>
 
 ---
 
 ## ⚠️ Ethics & Disclaimer
 
-🚨 Educational & authorized use only  
-🧪 Labs • CTFs • Research  
-❌ No illegal activity
+🚨 This profile and all projects are for **educational and authorized use only**.  
+🧪 Labs • CTFs • Simulation • Detection Research  
+❌ No unauthorized activity.
 
 ---
 
-<h3 align="center">
-☠️ Z3R0D4Y TEAM — Learn. Break. Defend.
-</h3>
+<h3 align="center">☠️ Z3R0D4Y TEAM — Learn. Break. Defend.</h3>
