@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm F7TSHADOW
+  Hi 👋, I'm F7T-SHADOW
 </h1>
 
 <p align="center">
