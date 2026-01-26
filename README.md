@@ -24,7 +24,7 @@
 
 
 <h3 align="center">
-• 🔴 Offensive Security‎ ‎ ‎   <br>• 🧠 Adversary Simulation <br>• 🛡️ Detection Awareness
+• 🔴 Offensive Security‎‎ ‎ ‎ ‎  ‎ ‎   <br>• 🧠 Adversary Simulation <br>• 🛡️ Detection Awareness
 </h3>
 
 ---
