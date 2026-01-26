@@ -72,9 +72,7 @@ T1036	Masquerading / Trusted Service Abuse
 
 🏆 GitHub Trophies
 
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=F7P-H4NN1B4L&theme=darkhub&margin-w=15&no-frame=true" />  
-</p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f7p-h4nn1b4l" alt="f7p-h4nn1b4l" /></a> </p>  
 ---
 
 📊 GitHub Stats
