@@ -44,6 +44,9 @@
 ---
 
 ## 🏷️ Red Team Tags
+
+red-team · adversary-simulation · c2 · malware-analysis · threat-emulation mitre-attck · detection-engineering · offensive-security · ctf · opsec
+
 ---
 
 ## 🧰 Languages & Tools
