@@ -100,11 +100,11 @@ and security vendors to model attacker behavior and improve detection.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4L&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
