@@ -1,6 +1,8 @@
 <h1 align="center">
   Hi 👋,
- I'm F7T-SHADOW
+</h1>
+<h1 align="center">
+  I'm F7T-SHADOW
 </h1>
 
 <p align="center">
