@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Adversary+Simulation+Specialist;CTF+Player;Founder+of+Z3R0D4Y+Team" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Founder+of+Z3R0D4Y+Team;Adversary+Simulation+Specialist;CTF+Player" />
 </p>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=F7P-SHADOW&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" />
 </p>
 
 ---
@@ -31,14 +31,13 @@
 ---
 
 ## 🏷️ Red Team Tags
-red-team · adversary-simulation · c2 · malware-analysis · threat-emulation mitre-attck · detection-engineering · offensive-security · ctf · opsec
 
----
+red-team · adversary-simulation · c2 · malware-analysis · threat-emulation mitre-attck · detection-engineering · offensive-security · ctf · opsec
 
 ## 🧠 MITRE ATT&CK Framework
 
-The <b>MITRE ATT&CK®</b> framework is a globally used knowledge base of real-world  
-adversary tactics and techniques. It is used by Red Teams, Blue Teams, SOCs,  
+The <b>MITRE ATT&CK®</b> framework is a globally used knowledge base of real-world
+adversary tactics and techniques. It is used by Red Teams, Blue Teams, SOCs,
 and security vendors to model attacker behavior and improve detection.
 
 <p align="center">
@@ -50,7 +49,7 @@ and security vendors to model attacker behavior and improve detection.
 ### Techniques Commonly Simulated
 
 | Technique ID | Description |
-|-------------|-------------|
+|------------|------------|
 | T1059.001 | PowerShell Command Execution |
 | T1102 | Web Services for C2 (Discord, Telegram, Slack) |
 | T1071.001 | Application Layer Protocol (HTTPS) |
@@ -61,7 +60,7 @@ and security vendors to model attacker behavior and improve detection.
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -76,7 +75,7 @@ and security vendors to model attacker behavior and improve detection.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=F7P-SHADOW&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=F7P-SHADOW&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -84,15 +83,15 @@ and security vendors to model attacker behavior and improve detection.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F7P-SHADOW&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f7p-shadow&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-SHADOW&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-SHADOW&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-shadow&theme=dark"/>
 </p>
 
 ---
