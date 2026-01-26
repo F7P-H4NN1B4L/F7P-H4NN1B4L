@@ -85,7 +85,7 @@ and security vendors to model attacker behavior and improve detection.
 
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-SHADOW&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-SHADOW&layout=compact&theme=tokyonight" />
 
 
 
