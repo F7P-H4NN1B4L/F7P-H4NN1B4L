@@ -1,10 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm F7TSHADOW
-From 🇹🇳
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Founder+of+Z3R0D4Y+Team;Adversary+Simulation+Specialist;CTF+Player" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Founder+of+Z3R0D4Y+Team;From 🇹🇳;Adversary+Simulation+Specialist;CTF+Player" />
 </p>
 
 <h3 align="center">
