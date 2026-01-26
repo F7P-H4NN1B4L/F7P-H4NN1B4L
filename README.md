@@ -71,9 +71,8 @@ and security vendors to model attacker behavior and improve detection.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/esp8266/esp8266-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Attiny85_1.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/raspberrypi/documentation/master/images/learn/learn-esp32.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/ATTiny85_microcontroller.jpg" width="40" height="40"/>
 </p>  
 ---
 
