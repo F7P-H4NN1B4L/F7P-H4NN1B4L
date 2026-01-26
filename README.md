@@ -1,5 +1,3 @@
-This readme
-
 <h1 align="center">  
   Hi 👋, I'm <br> F7T-SHADOW  
 </h1>  <p align="center">  
@@ -86,7 +84,7 @@ T1036	Masquerading / Trusted Service Abuse
 </p>  <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7p-shadow&layout=compact&theme=dark"/>  
 </p>  <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f7p-h4nn1b4l&theme=dark"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=dark"/>  
 </p>  
 ---
 
@@ -103,5 +101,3 @@ T1036	Masquerading / Trusted Service Abuse
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=%E2%98%A0%EF%B8%8F+Z3R0D4Y+TEAM" />  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Learn.+Break.+Defend." />  
 </p>  
-The github trophis dont work this is my acct  
-https://github.com/F7P-H4NN1B4L/F7P-H4NN1B4L
