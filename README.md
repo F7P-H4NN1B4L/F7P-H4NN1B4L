@@ -83,8 +83,9 @@ and security vendors to model attacker behavior and improve detection.
 
 ![F7P-H4NN1B4L's Stats](https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4L&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)   
-
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-SHADOW&layout=compact&theme=dark" />
 
 
 
