@@ -96,11 +96,16 @@ and security vendors to model attacker behavior and improve detection.
 
 📊 GitHub Stats
 
-![F7P-H4NN1B4L's Stats](https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
+  alt="F7P-H4NN1B4L's GitHub Stats"
+/>
+
 
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4L&layout=compact&theme=tokyonight" />
+</p>
 
 
 
