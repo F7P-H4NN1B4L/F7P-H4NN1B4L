@@ -96,11 +96,13 @@ and security vendors to model attacker behavior and improve detection.
 
 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
-  alt="F7P-H4NN1B4L's GitHub Stats"
-/>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
+    alt="F7P-H4NN1B4L's GitHub Stats"
+  />
+</p>
 
  
 <p align="center">
@@ -108,8 +110,12 @@ and security vendors to model attacker behavior and improve detection.
 </p>
 
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false"
+    alt="F7P-H4NN1B4L's GitHub Streak Stats"
+  />
+</p>  
 
 
 
