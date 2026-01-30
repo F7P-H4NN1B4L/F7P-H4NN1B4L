@@ -118,6 +118,14 @@ and security vendors to model attacker behavior and improve detection.
 </p>  
 
 
+![](https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4Lid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=F7P-H4NN1B4Lid&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4Lid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+
+![snake gif](https://github.com/F7P-H4NN1B4L/G/blob/output/github-snake-dark.svg)
 
 ---
 
