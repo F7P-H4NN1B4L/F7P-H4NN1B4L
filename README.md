@@ -15,7 +15,8 @@
 ---
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" />  
+  <img src="https://komarev.com/ghpvc/?username=f7p-shadow&label=Profile%20Views&color=red&style=flat" /> 
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-000000?style=flat&logo=kalilinux&logoColor=white" />
 </p>  
 
 ---
