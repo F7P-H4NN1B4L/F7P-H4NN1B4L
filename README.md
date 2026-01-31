@@ -92,6 +92,9 @@ and security vendors to model attacker behavior and improve detection.
   <img src="https://github-profile-trophy.vercel.app/?username=F7P-H4NN1B4L&theme=onedark&no-frame=true&margin-w=10" />
 </p>  
 
+![](https://github-profile-trophy.vercel.app/?username=F7P-H4NN1B4L&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+
 ---
 
 📊 GitHub Stats
@@ -115,7 +118,11 @@ and security vendors to model attacker behavior and improve detection.
     src="https://github-readme-streak-stats.herokuapp.com/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false"
     alt="F7P-H4NN1B4L's GitHub Streak Stats"
   />
-</p>  
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=F7P-H4NN1B4L&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=F7P-H4NN1B4L&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F7P-H4NN1B4L&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
